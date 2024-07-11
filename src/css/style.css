@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #B9B4C7;
+}
+
+nav-kage .btn {
+    border: 1px solid #B9B4C7;
+}
+
+nav-kage .btn:hover {
+    background-color: #B9B4C7;
+}
